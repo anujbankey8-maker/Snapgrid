@@ -39,7 +39,7 @@ Follow these steps to run SnapGrid on any machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/kharataditya/snapgrid.git
+git clone https://github.com/anujbankey8-maker/Snapgrid.git
 cd snapgrid
 ```
 
