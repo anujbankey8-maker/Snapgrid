@@ -9,7 +9,7 @@
 
 **SnapGrid** is a full-stack photo-sharing web application and comprehensive Database Management Systems (DBMS) project. Built with **MySQL 8.0+**, **Node.js / Express**, and **React (Vite)**, it implements core social media features—user profiles, photo publishing, personalized chronological feeds, likes, comments, and follower graphs—while demonstrating foundational and advanced relational database concepts.
 
-Repository: **[https://github.com/kharataditya/snapgrid](https://github.com/kharataditya/snapgrid)**
+Repository: **[https://github.com/anujbankey8-maker/Snapgrid](https://github.com/anujbankey8-maker/Snapgrid)**
 
 ---
 
@@ -379,4 +379,4 @@ Full DBMS project reports and examination guides are located in [`docs/`](./docs
 
 ---
 
-Developed for Database Management Systems Project & Viva Evaluation.
+Developed for Database Management Systems Project.
